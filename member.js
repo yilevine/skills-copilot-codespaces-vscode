@@ -76,5 +76,36 @@ function skillsMember() {
     this.data.skills[14] = {
         name: 'Wordpress',
         value: 80,
-        color: '#4caf
+        color: '#4caf'
     };
+    this.data.skills[15] = {
+        name: 'Photoshop',
+        value: 80,
+        color: '#4caf50'
+    };
+    this.data.skills[16] = {
+        name: 'Illustrator',
+        value: 80,
+        color: '#4caf50'
+    };
+    this.data.skills[17] = {
+        name: 'Indesign',
+        value: 80,
+        color: '#4caf50'
+    };
+    this.data.skills[18] = {
+        name: 'Premiere',
+        value: 80,
+        color: '#4caf50'
+    };
+    this.data.skills[19] = {
+        name: 'After Effects',
+        value: 80,
+        color: '#4caf50'
+    };
+    this.data.skills[20] = {
+        name: 'Final Cut',
+        value: 80,
+        color: '#4caf50'
+    };
+}
